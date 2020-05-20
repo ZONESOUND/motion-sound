@@ -67,7 +67,7 @@ function initSound() {
 }
 
 function changeSound(config) {
-    console.log(config);
+    //console.log(config);
     let current = context.currentTime;
     let v;
     if (mapV.OSC_DETUNE in config) {
