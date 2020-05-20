@@ -14,9 +14,9 @@ $('#start').click(async function(){
     // }
 });
 
-$('#test').click(function() {
-    let t = Math.floor(Math.random()*6);
-    changeSound({
-        5 : Math.random()
-    });
-})
+// $('#test').click(function() {
+//     let t = Math.floor(Math.random()*6);
+//     changeSound({
+//         5 : Math.random()
+//     });
+// })
